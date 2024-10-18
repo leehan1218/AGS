@@ -11,8 +11,11 @@
 
 
 
+
 The links to the original code for each module of the proposed methodology are as follows:
 
 Module A : https://github.com/pytorch/pytorch
+
 Module G : https://github.com/odegeasslbc/Progressive-GAN-pytorch?tab=readme-ov-file#reference
+
 Module S : https://github.com/usuyama/pytorch-unet?tab=readme-ov-file
